@@ -21,7 +21,7 @@ Slackbot is just like your companion although they both are like chalk and chees
     Format->    weather city_name
                 weather at city_name
                 
-5.  Translator- Well this the hallmark quality of scrabble that it can sentence written in English to any preferred language.
+5.  Translator- Well this the hallmark quality of slavebot that it can translate any sentence written in English to any preferred language.
     Format->    translate hi- sentence
                 here hi is language code for hindi, similarly->
                 Dutch: nl
